@@ -11,6 +11,10 @@ let arr_2 = [9, 2, 42, 55, 71, 22, 4,  5,  90, 25, 26]; // --> 351
 // Example output: 
 // 276 + 351 = 627
 
+//get sum of first array
+//get sum of second array
+//add sums together
+
 
 // 2) Using a for loop print all even numbers up to and including n. Don’t include 0.
 
