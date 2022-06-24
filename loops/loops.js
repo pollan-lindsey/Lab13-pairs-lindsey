@@ -11,9 +11,12 @@ let arr_2 = [9, 2, 42, 55, 71, 22, 4,  5,  90, 25, 26]; // --> 351
 // Example output: 
 // 276 + 351 = 627
 
-//get sum of first array
-//get sum of second array
-//add sums together
+function addArrays(array1, array2){
+for (let i=0; i<array1.length; i++){
+    
+}
+}
+
 
 
 // 2) Using a for loop print all even numbers up to and including n. Don’t include 0.
@@ -21,7 +24,13 @@ let arr_2 = [9, 2, 42, 55, 71, 22, 4,  5,  90, 25, 26]; // --> 351
 let n1 = 22; 
 // Example output: 
 // 2 4 6 8 10 12 14 16 18 20 22 OR each item on a new line
- 
+ for(i = 0; i<=22; i++){
+    if //number is even
+    //print number
+    
+    
+
+ }
 
 
 // 3) Using a for loop output the elements in reverse order
